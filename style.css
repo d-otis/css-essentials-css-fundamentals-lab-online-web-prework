@@ -12,7 +12,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 80%;
 }
 
 #featured-property {
@@ -38,6 +38,17 @@ figcaption {
   width: 800px;
   text-align: center;
   margin: 15px auto;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+  width: 25%;
+  background-color: red;
+  text-align: center;
 }
 
 
